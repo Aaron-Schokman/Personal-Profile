@@ -1,0 +1,180 @@
+html{
+  color: #5CA054;
+}
+title{
+  color:#69C97E; font-size:20px;
+  border-style: dotted;
+}
+
+body{
+  background-image: url("Background.jpg");
+  font-family: 'Comic Sans MS';
+  font-size: 12px;
+  color:#52E0B6;
+
+}
+
+
+h1 {
+  color:#75FF70;
+  font-size:110%;
+  padding:10px;
+  text-align: center;
+}
+
+h2 {
+  color: #75FF70;
+  font-size: 22.5px;
+  margin:auto;
+  padding:10px;
+}
+
+h3 {
+  color: #75FF70;
+  font-size:18px;
+  margin: auto;
+  padding:10px;
+}
+
+p{
+  width: 85%;
+  text-align: center;
+  color:#1E2F23;
+  font-size:15px;
+  background-image: url("Paper.jpg");
+  padding:15px;
+  float: center;
+  border-style: solid;
+  border-color: #75FF70;
+  border-radius: 25px;
+  line-height: 20px;
+  display:inline-block;
+
+}
+#list li {
+  font-size: 18px;
+  float: 40px;
+  padding: 10px;
+  column-count: 1;
+}
+
+
+li{ color:#68B0AB;
+   font size:16px;
+   padding:5px;
+}
+#headers {
+
+  background-size:
+  border-color:#1E2F23;
+}
+
+#headers h1{
+  font-size: 30px;
+  border:10;
+  margin-top: auto;
+  padding-top: 1px;}
+
+  #pic img {
+    width:10%;
+    height:10%;
+    border:10px;
+    border-color: "black";
+    border-radius: 25px;
+    border-style: double;
+    margin: 20px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#profile img {
+    width:30%;
+    height:30%;
+    border:10;
+    border-color: "black";
+    border-style: double;
+    border-radius: 25px;
+    font-size: 12px;
+}
+
+#job img {
+  border-color: "black";
+  border-radius:25px;
+  border-style: double;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#job p {
+  align-content: left;
+}
+
+#mbtest li {
+  font-size: 18px;
+  font-weight: bolder;
+
+}
+#mbtest img {
+  border-color: "black";
+  border-radius:25px;
+  border-style: double;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+#learning li {
+  font-size: 18px;
+  font-weight: bolder;
+}
+
+#learning img {
+  border-color: "black";
+  border-radius:25px;
+  border-style: double;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#psychometric li {
+  font-size: 18px;
+  font-weight: bolder;
+}
+
+#psychometric img {
+  border-color: "black";
+  border-radius:25px;
+  border-style: double;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#references li {
+  color:#75FF70;
+     font size:5px;
+     text-align: left;
+}
+#sub h3 {
+  color: #68B0AB;
+}
+#references li {
+  color: #68B0AB;
+}
+#references a {
+  color: #75FF70;
+}
+#thanks img {
+  width: 50%;
+  border-style: none;
+}
+.sectionHeading li {
+  color: #75FF70;
+  font-size:10px;
+  margin: auto;
+  padding:10px;
+}
+
+}
