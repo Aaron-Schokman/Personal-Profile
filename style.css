@@ -36,12 +36,12 @@ h3 {
   padding:10px;
 }
 
-p{
+p {
+  background-image: url("paperbg.jpg");
   width: 85%;
   text-align: center;
   color:#1E2F23;
   font-size:15px;
-  background-image: url("paperbg.jpg");
   padding:15px;
   float: center;
   border-style: solid;
@@ -58,7 +58,8 @@ p{
 }
 
 
-li{ color:#68B0AB;
+li{ 
+  color:#68B0AB;
    font size:16px;
    padding:5px;
 }
