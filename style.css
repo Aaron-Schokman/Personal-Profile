@@ -41,15 +41,15 @@ p{
   text-align: center;
   color:#1E2F23;
   font-size:15px;
-  background-image: url("https://github.com/Aaron-Schokman/Personal-Profile/blob/master/paperbg.jpg");
+  background-image: url("paperbg.jpg");
   padding:15px;
   float: center;
   border-style: solid;
   border-color: #75FF70;
   border-radius: 25px;
   line-height: 20px;
-
 }
+
 #list li {
   font-size: 18px;
   float: 40px;
@@ -61,11 +61,6 @@ p{
 li{ color:#68B0AB;
    font size:16px;
    padding:5px;
-}
-#headers {
-
-  background-size:
-  border-color:#1E2F23;
 }
 
 #headers h1{
